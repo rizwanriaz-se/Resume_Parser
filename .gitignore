@@ -1,0 +1,4 @@
+resume_parser/db.sqlite3
+__pycache__
+.pytest_cache
+
